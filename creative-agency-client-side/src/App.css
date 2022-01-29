@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+.bg-custom{
+  background-color: #FBD062;
+}
+.login-btn{
+  background-color: #111430;
+}
+.login-logo{
+  width: 25px;
+}
+.login-social-margin{
+  margin-top: 1px;
+}
+.scale-image{
+  transition: transform .5s;
+}
+.scale-image:hover{
+  transform: scale(1.1);
+}
+.our-works{
+  background: #111430;
+}
+.active{
+  color: green;
+}
+.dashboard-bg{
+  background-color: #f4f7fc;
+  background-size: cover;
+}
